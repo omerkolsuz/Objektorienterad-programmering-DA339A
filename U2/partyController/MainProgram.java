@@ -1,6 +1,6 @@
 /*
   Author: <Ömer Kolsuz>
-  Id: <an3894>
+  Id: <>
   Study program: <DT>
 */
 package partyController;
